@@ -3,7 +3,7 @@
 
 ## Установка
 Клонируйте репозиторий на свой компьютер:
-https://github.com/y/project.git
+[https://github.com/MarinaKosenkova/1_PZ_RCIS]
 Перейдите в папку с проектом:
 cd project
 
